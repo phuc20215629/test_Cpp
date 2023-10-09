@@ -1,6 +1,7 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
+
+//BẢN PROVJP
 
 int main() {
     int n, k, arr[1000];
